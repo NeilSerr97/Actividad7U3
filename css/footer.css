@@ -1,0 +1,112 @@
+.footer{
+background-color:  rgb(233, 58, 15);
+display: block;
+
+}
+
+.formulario {
+    background-color: rgb(233, 58, 15);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+}
+
+
+footer form {
+    margin: 0px auto;
+    width: 500px;
+    background-color: rgba(0, 0, 0, 6);
+    box-sizing: border-box;
+    padding: 20px 20px;
+    border-radius: 5px;
+    font-family: cursive;
+}
+footer form p {
+    font-size: 30px;
+    font-family: cursive;
+    text-justify: auto;
+    color: white;
+
+}
+
+input, textarea {
+
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 7px;
+    box-sizing: border-box;
+    font-size: 20px;
+    border-radius: 5px;
+    font-family: cursive;
+
+}
+
+textarea {
+min-height: 100px;
+max-height: 200px;
+
+}
+
+#boton {
+
+    padding: 10px;
+    background-color: rgb(211, 218, 211);
+    font-size: 30px;
+    font-family: cursive;
+    color: black;
+    border-radius: 7px;
+    border-bottom: black;
+    border-right: black;
+    
+    }
+
+#boton:hover {
+
+    background-color: rgb(233, 58, 15);
+    transform-style: flat;
+    transition: 0.5s;
+}
+
+
+.social_media {
+    background-color: rgb(233, 58, 15);
+    text-align: center;
+    display: block;
+    padding-bottom: 15px;
+    
+}
+.social_media a {
+    padding: 5px 30px;
+
+}
+
+.social_media h3 {
+
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-family: cursive;
+    text-decoration: underline;
+    font-style: italic;
+    background-color: rgba(0, 0, 0, 5);
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 0px;
+}
+
+.copyright {
+
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: white;
+
+}
+
+.copyright p {
+
+    margin: 0px;
+    padding: 10px auto 5px auto;
+    font-size: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
